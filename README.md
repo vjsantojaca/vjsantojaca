@@ -13,12 +13,7 @@ I am not afraid of technological challenges, in fact, without those challenges l
 I once tried to be an Instagrammer with my food 👨🏻‍🍳
 
 ------------
-- 🔭 I’m currently working on BQ as Devices Software Engineer. What I do?
-  - Advise on solving problems related with Radio Interface Layer (**RIL**) of a Operation System.
-  - Analysis, design and development of a Local Profile Assistant (**LPA**) (the mechanism to use an *eSIM* in a smartphone) from low level to high level.
-  - Develop a MDM in a Real Time Operation System (**RTOS**). 
-  - Code Review and SCM of various platforms (**QCM platforms** that it is used for the Android BQ devices firmware).
-  - Modifications in our **Jenkins CI** to add new automations. 
+- 🔭 I’m currently working on Stubhub as Software Engineer.
 - 👯 I'm collaborating on:
   - [Lineage OS](https://lineageos.org/) as Device Maintainer.
 - 🌱 I’m currently learning ***R***, ***Python*** and recovering my knowledge about ***Spring Boot***
