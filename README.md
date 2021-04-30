@@ -13,10 +13,10 @@ I am not afraid of technological challenges, in fact, without those challenges l
 I once tried to be an Instagrammer with my food 👨🏻‍🍳
 
 ------------
-- 🔭 I’m currently working on @stubhub as Software Engineer.
+- 🔭 I’m currently working on [Stubhub|https://github.com/stubhub] as Software Engineer.
 - 👯 I'm collaborating on:
   - [Lineage OS](https://lineageos.org/) as Device Maintainer.
-- 🌱 I’m currently learning ***R***, ***Python*** and recovering my knowledge about ***Spring Boot***
+- 🌱 I’m currently learning ***R***, ***Python***, ***Rust*** and anything interesting.
 
 <!--
 **vjsantojaca/vjsantojaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
