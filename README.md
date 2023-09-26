@@ -13,7 +13,7 @@ I am not afraid of technological challenges, in fact, without those challenges l
 I once tried to be an Instagrammer with my food 👨🏻‍🍳
 
 ------------
-- 🔭 I’m currently working on [Stubhub International](https://github.com/stubhubint) as Software Engineer.
+- 🔭 I’m currently working as Senior Software Engineer.
 - 👯 I'm collaborating on:
   - [Lineage OS](https://lineageos.org/) as Device Maintainer.
 - 🌱 I’m currently learning ***R***, ***Python***, ***Rust*** and anything interesting.
