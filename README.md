@@ -9,14 +9,14 @@
 
 Born in Avila, with Salamanca in the heart and now in Bilbao.  
 I love the blue color and the strongly typed languages (although I'm taking off), also, I enjoy learning new things and although it surprises ... I like to document !!  
-I am not afraid of technological challenges, in fact, without those challenges life is a bit more boring. My last years have been oriented to the development of mobile operating systems, but who said fear?  
+I am not afraid of technological challenges, in fact, without those challenges life is a bit more boring.
 I once tried to be an Instagrammer with my food 👨🏻‍🍳
 
 ------------
-- 🔭 I’m currently working as Senior Software Engineer.
+- 🔭 I’m currently working as Senior Software Engineer at @masmovil
 - 👯 I'm collaborating on:
   - [Lineage OS](https://lineageos.org/) as Device Maintainer.
-- 🌱 I’m currently learning ***R***, ***Python***, ***Rust*** and anything interesting.
+- 🌱 I’m currently learning ***Maths***, ***R***, ***Python***, ***Rust*** and anything interesting.
 
 <!--
 **vjsantojaca/vjsantojaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
