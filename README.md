@@ -6,8 +6,6 @@ I am not afraid of technological challenges, in fact, without those challenges l
 
 🔭 I’m currently working as Senior Software Engineer at **Euskaltel Group | MasMovil Group** `@masmovil`
 
-👯 I'm collaborating on: **Lineage OS** as Device Maintainer.
-
 🌱 I’m currently learning Maths, R, Python, Rust and anything interesting.
 
 ---
@@ -36,12 +34,13 @@ I am not afraid of technological challenges, in fact, without those challenges l
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vjsantojaca&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vjsantojaca&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vjsantojaca&theme=dracula&column=7&margin-w=15&margin-h=15" alt="vjsantojaca GitHub Trophies" />
+  </a>
+</p>
 
 ### ⛰️ Outside the IDE
 
